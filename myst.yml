@@ -1,14 +1,14 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Hackathon Template Github
-  description: Github Pages based template for hackathons
+  title: Salon25
+  description: The changing Landscape of Data Science
   # keywords: []
   authors:
-    - name: Instructor Name
+    - name: Loyola University Chicago
       orcid: XXXX-XXXX-XXXX-XXXX
       github: username
-  github: https://github.com/hackthackathon/hackathon-template-github
+  github: https://fiacobelli.github.io/salon25/
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
@@ -20,6 +20,9 @@ project:
     - title: Projects
       children:
         - pattern: 'projects/project-*'
+    - title: Workshops
+      children:
+        - pattern: 'workshops/*'
 site:
   template: book-theme
   # Modify this section with the logos of your choice
