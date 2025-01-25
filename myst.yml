@@ -21,6 +21,7 @@ project:
       children:
         - pattern: 'projects/project-*'
     - title: Workshops
+      - file: README.md
       children:
         - pattern: 'workshops/*'
 site:
