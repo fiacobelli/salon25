@@ -4,3 +4,7 @@ Welcome to the Salon25 github page. Here you will find all the resources for the
 
 ## Schedule
 
+| Time | Event |
+| :------- | ------- |
+| 8:30 -- 9:00 | Wlcome remarks |
+| 9:00 -- 10:00 | Talk 1 |
