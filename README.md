@@ -24,6 +24,6 @@ Welcome to the Salon25 github page. Here you will find all the resources for the
 
 ## Workshops
 | Workshop | Data Science w/ R | Data Science w/ Python | Special Tools | AI |
-| :----- | :----- | :----- | :------- | :------ | :------- |
+| :----- | :----- | :------- | :------ | :------- |
 | 1 | First R Visualization | First Python Visualization | First Scala Analysis | TBD |
 | 2 | First ML Analysis with R | First ML analysis with Python | First ML Analysis with Orange3 | Interacting with ChatGPT in Pyhton |
